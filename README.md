@@ -1,2 +1,1 @@
-# chak.studio.io
-# chak.studio.io
+# chak.github.io
